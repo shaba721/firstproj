@@ -1,0 +1,13 @@
+/Users/nickshaba/Documents/rust-book /first_request/target/debug/deps/libnet2-1b464a8243a31f2d.rlib: /Users/nickshaba/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/lib.rs /Users/nickshaba/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/tcp.rs /Users/nickshaba/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/udp.rs /Users/nickshaba/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/socket.rs /Users/nickshaba/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/ext.rs /Users/nickshaba/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/utils.rs /Users/nickshaba/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/sys/unix/mod.rs /Users/nickshaba/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/sys/unix/impls.rs /Users/nickshaba/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/unix.rs
+
+/Users/nickshaba/Documents/rust-book /first_request/target/debug/deps/net2-1b464a8243a31f2d.d: /Users/nickshaba/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/lib.rs /Users/nickshaba/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/tcp.rs /Users/nickshaba/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/udp.rs /Users/nickshaba/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/socket.rs /Users/nickshaba/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/ext.rs /Users/nickshaba/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/utils.rs /Users/nickshaba/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/sys/unix/mod.rs /Users/nickshaba/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/sys/unix/impls.rs /Users/nickshaba/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/unix.rs
+
+/Users/nickshaba/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/lib.rs:
+/Users/nickshaba/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/tcp.rs:
+/Users/nickshaba/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/udp.rs:
+/Users/nickshaba/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/socket.rs:
+/Users/nickshaba/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/ext.rs:
+/Users/nickshaba/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/utils.rs:
+/Users/nickshaba/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/sys/unix/mod.rs:
+/Users/nickshaba/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/sys/unix/impls.rs:
+/Users/nickshaba/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/unix.rs:

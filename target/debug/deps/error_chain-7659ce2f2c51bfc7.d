@@ -1,0 +1,10 @@
+/Users/nickshaba/Documents/rust-book /first_request/target/debug/deps/liberror_chain-7659ce2f2c51bfc7.rlib: /Users/nickshaba/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.1/src/lib.rs /Users/nickshaba/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.1/src/impl_error_chain_kind.rs /Users/nickshaba/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.1/src/error_chain.rs /Users/nickshaba/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.1/src/quick_main.rs /Users/nickshaba/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.1/src/example_generated.rs /Users/nickshaba/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.1/src/backtrace.rs
+
+/Users/nickshaba/Documents/rust-book /first_request/target/debug/deps/error_chain-7659ce2f2c51bfc7.d: /Users/nickshaba/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.1/src/lib.rs /Users/nickshaba/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.1/src/impl_error_chain_kind.rs /Users/nickshaba/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.1/src/error_chain.rs /Users/nickshaba/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.1/src/quick_main.rs /Users/nickshaba/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.1/src/example_generated.rs /Users/nickshaba/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.1/src/backtrace.rs
+
+/Users/nickshaba/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.1/src/lib.rs:
+/Users/nickshaba/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.1/src/impl_error_chain_kind.rs:
+/Users/nickshaba/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.1/src/error_chain.rs:
+/Users/nickshaba/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.1/src/quick_main.rs:
+/Users/nickshaba/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.1/src/example_generated.rs:
+/Users/nickshaba/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.1/src/backtrace.rs:

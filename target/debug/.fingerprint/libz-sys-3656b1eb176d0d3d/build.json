@@ -1,0 +1,1 @@
+{"rustc":7052314952459834523,"features":"","target":0,"profile":0,"path":0,"deps":[],"local":[{"MtimeBased":[[1560141571,60537000],"build/libz-sys-3656b1eb176d0d3d/output"]},{"EnvBased":["LIBZ_SYS_STATIC",null]}],"rustflags":[],"edition":"Edition2015"}

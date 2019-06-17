@@ -1,0 +1,11 @@
+/Users/nickshaba/Documents/rust-book /first_request/target/debug/deps/libtokio_executor-6286c68a613c7b44.rlib: /Users/nickshaba/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.7/src/lib.rs /Users/nickshaba/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.7/src/enter.rs /Users/nickshaba/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.7/src/error.rs /Users/nickshaba/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.7/src/executor.rs /Users/nickshaba/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.7/src/global.rs /Users/nickshaba/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.7/src/park.rs /Users/nickshaba/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.7/src/typed.rs
+
+/Users/nickshaba/Documents/rust-book /first_request/target/debug/deps/tokio_executor-6286c68a613c7b44.d: /Users/nickshaba/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.7/src/lib.rs /Users/nickshaba/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.7/src/enter.rs /Users/nickshaba/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.7/src/error.rs /Users/nickshaba/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.7/src/executor.rs /Users/nickshaba/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.7/src/global.rs /Users/nickshaba/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.7/src/park.rs /Users/nickshaba/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.7/src/typed.rs
+
+/Users/nickshaba/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.7/src/lib.rs:
+/Users/nickshaba/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.7/src/enter.rs:
+/Users/nickshaba/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.7/src/error.rs:
+/Users/nickshaba/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.7/src/executor.rs:
+/Users/nickshaba/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.7/src/global.rs:
+/Users/nickshaba/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.7/src/park.rs:
+/Users/nickshaba/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-executor-0.1.7/src/typed.rs:

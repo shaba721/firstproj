@@ -1,0 +1,11 @@
+/Users/nickshaba/Documents/rust-book /first_request/target/debug/deps/libcookie_store-17a98d6c8e34c5bc.rlib: /Users/nickshaba/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/lib.rs /Users/nickshaba/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/cookie.rs /Users/nickshaba/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/cookie_domain.rs /Users/nickshaba/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/cookie_expiration.rs /Users/nickshaba/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/cookie_path.rs /Users/nickshaba/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/cookie_store.rs /Users/nickshaba/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/utils.rs
+
+/Users/nickshaba/Documents/rust-book /first_request/target/debug/deps/cookie_store-17a98d6c8e34c5bc.d: /Users/nickshaba/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/lib.rs /Users/nickshaba/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/cookie.rs /Users/nickshaba/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/cookie_domain.rs /Users/nickshaba/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/cookie_expiration.rs /Users/nickshaba/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/cookie_path.rs /Users/nickshaba/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/cookie_store.rs /Users/nickshaba/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/utils.rs
+
+/Users/nickshaba/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/lib.rs:
+/Users/nickshaba/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/cookie.rs:
+/Users/nickshaba/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/cookie_domain.rs:
+/Users/nickshaba/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/cookie_expiration.rs:
+/Users/nickshaba/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/cookie_path.rs:
+/Users/nickshaba/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/cookie_store.rs:
+/Users/nickshaba/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie_store-0.7.0/src/utils.rs:

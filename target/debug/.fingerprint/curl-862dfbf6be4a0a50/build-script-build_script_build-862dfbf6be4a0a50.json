@@ -1,0 +1,1 @@
+{"rustc":7052314952459834523,"features":"[\"curl-sys\", \"default\", \"openssl-probe\", \"openssl-sys\", \"ssl\"]","target":10088282520713642473,"profile":9935990280773120926,"path":3204479369241854229,"deps":[],"local":[{"Precalculated":"0.4.22"}],"rustflags":[],"edition":"Edition2015"}

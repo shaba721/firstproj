@@ -1,0 +1,1 @@
+/Users/nickshaba/Documents/rust-book\ /first_request/target/debug/first_request.dSYM: /Users/nickshaba/Documents/rust-book\ /first_request/src/main.rs /Users/nickshaba/Documents/rust-book\ /first_request/src/parsing.rs
