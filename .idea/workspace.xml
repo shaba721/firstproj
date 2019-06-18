@@ -4,7 +4,10 @@
     <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8911cdad-5f72-4bf5-a5d1-408c9bcb2b7d" name="Default Changelist" comment="" />
+    <list default="true" id="8911cdad-5f72-4bf5-a5d1-408c9bcb2b7d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/parsing.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/parsing.rs" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,8 +38,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/parsing.rs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="129">
-              <caret line="293" selection-start-line="293" selection-end-line="293" />
+            <state relative-caret-position="1056">
+              <caret line="250" column="35" selection-start-line="250" selection-start-column="35" selection-end-line="250" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -44,8 +47,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main.rs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="129">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="105">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -90,6 +93,7 @@
     <option name="directoryName" value="kfSlZLjh" />
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="-1" />
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="801" />
@@ -202,7 +206,7 @@
       <workItem from="1560473611699" duration="66000" />
       <workItem from="1560543866131" duration="304000" />
       <workItem from="1560650037650" duration="7469000" />
-      <workItem from="1560794091965" duration="3879000" />
+      <workItem from="1560794091965" duration="7840000" />
     </task>
     <task id="LOCAL-00001" summary="big">
       <created>1560291514075</created>
@@ -236,7 +240,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73979000" />
+    <option name="totallyTimeSpent" value="77940000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -248,7 +252,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="801" extended-state="0" />
+    <frame x="-1" y="23" width="1440" height="801" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2932761" />
@@ -342,15 +346,15 @@
     <entry file="file://$PROJECT_DIR$/src/add_to_cart.rs" />
     <entry file="file://$PROJECT_DIR$/src/main.rs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/parsing.rs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="293" selection-start-line="293" selection-end-line="293" />
+        <state relative-caret-position="1056">
+          <caret line="250" column="35" selection-start-line="250" selection-start-column="35" selection-end-line="250" selection-end-column="35" />
         </state>
       </provider>
     </entry>
