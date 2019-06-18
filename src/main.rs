@@ -1,12 +1,11 @@
 
-use crate::parsing::{printall};
+use crate::parsing::{findst};
 
 mod parsing;
 
 fn main() {
-let a = Vec::new();
 
-    printall(a);
+
 
 
 }

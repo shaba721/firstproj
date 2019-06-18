@@ -16,7 +16,7 @@ use std::io::SeekFrom::Start;
 use std::str::FromStr;
 use std::panic::resume_unwind;
 use std::path::Prefix::Verbatim;
-
+use core::panicking::panic_fmt;
 
 
 #[derive(Serialize, Deserialize)]
@@ -202,16 +202,12 @@ fn getting_json(){
 
 }
 
-pub struct Idsofproduct{
+pub struct productid{
     pub productid: i64,
     pub stid: i64,
     pub sid: i64
 }
-impl Idsofproduct{
-    fn printit(&self){
-        println!("product {:?} st {:?} s {:?}", self.productid, self.stid, self.sid);
-    }
-}
+
 
 
 pub fn find_product(storejson: String) {
@@ -224,9 +220,8 @@ pub fn find_product(storejson: String) {
         for Products in product{
             if Products.name.contains("pendant"){
                 let productid = Products.id;
-                let mut ids = Vec::new();
-                ids.push(productid);
-                printall(ids);
+
+
 
 
                 }
@@ -253,7 +248,7 @@ fn productjson(productid: i64){
 
 
 
-fn findsizes(productjson: &String) -> i64 {
+fn findsizes(productjson: &String) {
     let product = productjson.to_lowercase();
     let parser: TopLevel = serde_json::from_str(&product).expect("dont fail");
 
@@ -262,9 +257,8 @@ fn findsizes(productjson: &String) -> i64 {
             if size.name.contains("n/a") {
                 let style = product.id;
 
-                let mut ids = Vec::new();
-                ids.push(style);
-                printall(ids);
+
+
             }
         }
     }
@@ -273,36 +267,22 @@ fn findsizes(productjson: &String) -> i64 {
 
 
 
-fn findst(productjson: &String){
+pub fn findst(productjson: &String) {
 
     let parser: TopLevel  = serde_json::from_str(&productjson).expect("failed st");
     for product in parser.styles{
         if product.name.contains("gold"){
             let style = product.id;
-            let mut ids = Vec::new();
-            ids.push(style);
-            printall(ids);
 
 
 
         }
     }
+    panic!("failed");
 }
 
 
-pub fn printall(ids: Vec<i64>) -> (){
-
-   /* let product:Vec<i64> = vec![0];
-    let st:Vec<i64> = vec![1];
-    let s:Vec<i64> = vec![2]; */
-    let productinfo = Idsofproduct {
-        productid: ids[0],
-        stid: ids[1],
-        sid: ids[2]
-    };
-   println!("product info: {:?}", productinfo.printit());
 
 
 
 
-}
